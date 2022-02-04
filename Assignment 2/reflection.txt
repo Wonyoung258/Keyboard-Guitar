@@ -1,0 +1,15 @@
+1. This week I learned about using Queues in different ways
+and how it can be utilized to make the program faster
+
+2. I really enjoyed the finished product of this program. 
+I really enjoyed how the program was very interactive and 
+I now had an instrument I can carry around for fun at all times
+
+3. I thought the most frustrating part was trying to tell myself
+it was ok to not understand the physics and science behind
+soundwaves but still trying to code about it without understanding it.
+
+4. I found the spec very very helpful and the test programs very helpful for this week
+because after careful reading through the spec, it became clear and almost 
+as if the spec was telling me step-by-step what to do. Also the test programs showed me
+exactly where I may have made a mistake.
